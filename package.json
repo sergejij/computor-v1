@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/sergejij/computor-v1/issues"
   },
-  "homepage": "https://github.com/sergejij/computor-v1#readme"
+  "homepage": "https://github.com/sergejij/computor-v1#readme",
+  "type": "module"
 }
